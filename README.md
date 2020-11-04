@@ -1,7 +1,8 @@
-# A Next.js starter for the [JAMstack](https://jamstack.org)
-This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
+# Next.js on Netlify - Proof Of Concept
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f32bfd63-d1fc-46ff-8cb4-b738541bb715/deploy-status)](https://app.netlify.com/sites/netlify-nextjs-poc/deploys)
+
+Auto-deployed here: https://netlify-nextjs-poc.netlify.app/
 
 ## Usage
 
@@ -51,12 +52,3 @@ using Next.js. If you would like to add more resources please open a pull reques
 
 - [Using Next.js as a Static Site Generator for Netlify](https://scotch.io/@sw-yx/using-nextjs-as-a-static-site-generator-for-netlify) - [Shawn Wang](https://twitter.com/swyx)
 - [Serverless Next.js 9 on Netlify Functions](https://community.netlify.com/t/serverless-next-js-9-on-netlify-functions/1956) - [Shawn Wang](https://twitter.com/swyx)
-
-## Deploying to Netlify
-
-The deploy to Netlify button above will create a new site and repo in one click. If you've created your repo manually, you can deploy to Netlify as follows:
-
-- Push your clone to your own GitHub repository.
-- [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
-
-Now Netlify will build and deploy your site whenever you push to git.
