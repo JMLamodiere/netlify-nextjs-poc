@@ -3,9 +3,14 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>Next.js deployed on Netlify</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>This is a Proof Of Concept of a <a href="https://nextjs.org">Next.js</a> app
+        deployed on <a href="https://www.netlify.com/">Netlify</a></h3>
+
+    <p>See <a href="https://github.com/JMLamodiere/netlify-nextjs-poc">source code on Github</a></p>
+
+    <p>By <a href="https://twitter.com/JMLamodiere">Jean-Marie Lamodière</a></p>
 
     <style jsx>{`
       :global(html,body) {
