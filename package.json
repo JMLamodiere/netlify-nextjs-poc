@@ -7,7 +7,7 @@
     "start": "next dev"
   },
   "dependencies": {
-    "next": "11.1.1",
+    "next": "12.1.0",
     "react": "16.14.0",
     "react-dom": "16.14.0"
   }
